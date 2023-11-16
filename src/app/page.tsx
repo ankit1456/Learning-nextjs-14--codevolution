@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div>Welcome Home</div>
+    <div style={{ flex:1}}>Welcome Home</div>
   )
 }
 
